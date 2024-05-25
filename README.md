@@ -49,3 +49,4 @@
    - **When you run this code a local host link will be generated in the terminal. Follow that link. A gradio interface will be opened where you will be having a frame for uploading image of the MRI scan. You can predict the tumor just by clicking the 'Submit' button** 
          
 ## Sample Results
+![Screenshots](Images/Screenshot2024-05-25205549.png)
