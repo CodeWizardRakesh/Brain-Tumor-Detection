@@ -2,7 +2,7 @@
 
 ## Content
    - Installation
-   - Usage
+   - [Usage](https://github.com/CodeWizardRakesh/Brain-Tumor-Detection/blob/main/README.md#dataset)
    - Sample Results
 ## Installation
    ``` bash
