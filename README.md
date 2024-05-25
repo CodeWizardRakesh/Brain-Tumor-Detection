@@ -59,3 +59,6 @@ This project introduces a novel and advanced system for the early detection of b
 - Predicted Output
   
 ![Screenshots](Images/gradio2.png)
+
+
+***If you see this probably you have gone through this repositary. Thank you so much for taking time to go through this repository***
