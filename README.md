@@ -2,8 +2,9 @@
 
 ## Content
    - [Installation](https://github.com/CodeWizardRakesh/Brain-Tumor-Detection/blob/main/README.md#installation)
+   - [Dataset](https://github.com/CodeWizardRakesh/Brain-Tumor-Detection/edit/main/README.md#dataset)
    - [Usage](https://github.com/CodeWizardRakesh/Brain-Tumor-Detection/blob/main/README.md#dataset)
-   - Sample Results
+   - [Sample Results](https://github.com/CodeWizardRakesh/Brain-Tumor-Detection/blob/main/README.md#sample-results)
 ## Installation
    ``` bash
    pip install tensorflow
