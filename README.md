@@ -1,5 +1,5 @@
 # Brain-Tumor-Detection
 
-'''python
+```python
 print()
-'''
+```
