@@ -50,8 +50,11 @@
          
 ## Sample Results
 - Follow this link
+  
 ![Screenshots](Images/run.png)
 - Graio interface
+  
 ![Screenshots](Images/gradio.png)
 - Predicted Output
+  
 ![Screenshots](Images/gradio2.png)
