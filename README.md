@@ -37,7 +37,7 @@
 ## Step 3:
    - Run tumor_detection.py file
    ```bash
-      python b_tumor_model2.py
+      python tumor_detection.py
    ```
    - It is the main file that is used to predict the type of brain tumor in the given MRI image of brain.
          
