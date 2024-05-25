@@ -1,5 +1,5 @@
 # Brain-Tumor-Detection
-
+This project introduces a novel and advanced system for the early detection of brain tumors utilizing Convolutional Neural Networks (CNN) in combination with the Gradio interface. The primary focus of this AI-driven solution is to accurately categorize brain tumor types, which include glioma, meningioma, and pituitary tumors. The model is trained on a diverse dataset, including a "no tumor" class with MRI scan images of healthy brains, ensuring comprehensive diagnostic capabilities.The significance of this project lies in its potential to revolutionize the field of medical diagnostics. 
 ## Content
    - [Installation](https://github.com/CodeWizardRakesh/Brain-Tumor-Detection/blob/main/README.md#installation)
    - [Dataset](https://github.com/CodeWizardRakesh/Brain-Tumor-Detection/edit/main/README.md#dataset)
