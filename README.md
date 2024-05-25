@@ -1,7 +1,7 @@
 # Brain-Tumor-Detection
 
 ## Content
-   - Installation
+   - [Installation](https://github.com/CodeWizardRakesh/Brain-Tumor-Detection/blob/main/README.md#installation)
    - [Usage](https://github.com/CodeWizardRakesh/Brain-Tumor-Detection/blob/main/README.md#dataset)
    - Sample Results
 ## Installation
